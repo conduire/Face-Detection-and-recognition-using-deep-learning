@@ -1,8 +1,8 @@
 This is the SSD multibox implementation for pedestrian and Face recognition. 
 
-ssd300_training for face recognition.ipynb is used for training the model for required dataset. The dataset required should be in PascalVOC format. The PascalVOC face dataset can be created using the https://github.com/conduire/Create-your-own-face-database-in-PascalVOC-format-using-face-video. 
-
+ssd300_training for face recognition.ipynb is used for training the model for required dataset.
+The dataset required should be in PascalVOC format. The PascalVOC face dataset can be created using the 
+https://github.com/conduire/Create-your-own-face-database-in-PascalVOC-format-using-face-video. 
 
 Link to download train weights for training and inference( face recognition using input image, face recogition using webcam )
-
 https://esigelec-my.sharepoint.com/:f:/g/personal/yadav_alok_groupe-esigelec_org/EiOIPv76WN5NhHnKNpNLicQBibluvDj6rIgmU4F-BSaAXA?e=VINBfh
