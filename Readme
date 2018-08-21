@@ -1,4 +1,5 @@
-This is the SSD multibox implementation for pedestrian and Face recognition. 
+This is the SSD multibox implementation for pedestrian and Face recognition, which has been built on open source SSD implementation by 
+Pierluigi Ferrari (Github: pierluigiferrari).
 
 ssd300_training for face recognition.ipynb is used for training the model for required dataset.
 The dataset required should be in PascalVOC format. The PascalVOC face dataset can be created using the 
